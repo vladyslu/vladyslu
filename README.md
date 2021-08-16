@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladyslav Luchenko
+- 👋 Hi, My name is  Vladyslav Luchenko. I recently graduated from the University of Central Florida.
 - 👀 I’m interested in learning new and improving old skills.
 - 🌱 I’m currently learning python, C#, and JAVA
 - 💞️ I’m looking to collaborate on financial, gaming and competitive projects.
